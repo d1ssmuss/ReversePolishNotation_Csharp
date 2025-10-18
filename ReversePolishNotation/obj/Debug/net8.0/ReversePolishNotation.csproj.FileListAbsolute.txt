@@ -1,0 +1,14 @@
+C:\Users\Linarr\source\repos\ReversePolishNotation\bin\Debug\net8.0\ReversePolishNotation.exe
+C:\Users\Linarr\source\repos\ReversePolishNotation\bin\Debug\net8.0\ReversePolishNotation.deps.json
+C:\Users\Linarr\source\repos\ReversePolishNotation\bin\Debug\net8.0\ReversePolishNotation.runtimeconfig.json
+C:\Users\Linarr\source\repos\ReversePolishNotation\bin\Debug\net8.0\ReversePolishNotation.dll
+C:\Users\Linarr\source\repos\ReversePolishNotation\bin\Debug\net8.0\ReversePolishNotation.pdb
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.AssemblyInfoInputs.cache
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.AssemblyInfo.cs
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.csproj.CoreCompileInputs.cache
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.dll
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\refint\ReversePolishNotation.dll
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.pdb
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ReversePolishNotation.genruntimeconfig.cache
+C:\Users\Linarr\source\repos\ReversePolishNotation\obj\Debug\net8.0\ref\ReversePolishNotation.dll
